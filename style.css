@@ -17,29 +17,16 @@ margin: 10px;
 .line2{
     padding-top: 15px;
 }
-/* .row-heading{
-    height
-
-} */
 .content1{
-    /* height: 100px; */
     width:90px;
-/* justify-content: space-evenly; */
 }
 .content2{
-    /* height: 100px; */
     width:160px;
-/* justify-content: space-evenly; */
 }
 
 .content3{
-    /* height: 100px; */
     width:60px;
-/* justify-content: space-evenly; */
 }
-/* #course{
-    text-align: center;
-} */
 .data{
     width:20px;
    justify-content: space-evenly;
